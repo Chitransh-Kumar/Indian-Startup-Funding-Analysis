@@ -63,6 +63,25 @@ streamlit run app.py
 🚀 Check out the live app here:  
 🔗[View on Streamlit Cloud](https://indian-startup-funding-analysis-jrs.streamlit.app/)  
 
+--- 
 
+## 📬 Connect With Me
+
+If you have suggestions, improvements or want to collaborate, feel free to reach out:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chitransh-kumar/)
+- 📧 [chitranshhere11@gmail.com](mailto:chitranshhere11@gmail.com)
+
+---
+
+## ⭐ Star This Repo
+
+If you find this project helpful or inspiring, please consider giving it a star:
+
+> ⭐ **[Click here to star the repository](https://github.com/Chitransh-Kumar/Indian-Startup-Funding-Analysis)**
+
+It helps others discover the project and keeps me motivated to build and share more! 🚀
+
+---
 
 
